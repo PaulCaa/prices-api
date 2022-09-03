@@ -10,5 +10,7 @@ Spring Boot API to manage product prices and rates
 ## System dependencies
 
 _Database_
-
 - `h2`
+
+_Others_
+- `Mapstruct 1.5.2.Final`
